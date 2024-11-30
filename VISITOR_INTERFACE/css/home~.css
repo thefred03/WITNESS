@@ -3,7 +3,7 @@
     margin: 10px;
     padding: 10px;
     text-align: center;
-    background-image: url(/images/bernd-dittrich-W1NsOMhU8hI-unsplash.jpg);
+    background-image: url(/VISITOR_INTERFACE/images/bernd-dittrich-W1NsOMhU8hI-unsplash.jpg);
     background-size: cover;
     font-size: 260px;
     background-size: cover;
@@ -24,11 +24,11 @@ h4{
 }
 @font-face {
     font-family: myFirstFont;
-    src: url(/fonts/Love_Light/LoveLight-Regular.ttf);
+    src: url(/VISITOR_INTERFACE/fonts/Love_Light/LoveLight-Regular.ttf);
   }
 @font-face {
   font-family: mySecondFont;
-  src: url(/fonts/Fleur_De_Leah/FleurDeLeah-Regular.ttf);
+  src: url(/VISITOR_INTERFACE/fonts/Fleur_De_Leah/FleurDeLeah-Regular.ttf);
 }
 
 
